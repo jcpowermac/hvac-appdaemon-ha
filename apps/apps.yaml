@@ -1,0 +1,8 @@
+SuperCool:
+  class: SmartCool
+  start_time: "23:20:00"
+  end_time: "07:00:00"
+  module: super_cool
+  low_temperature: 64
+  end_time_temperature: 78
+  thermostats: climate.system_zone_1
